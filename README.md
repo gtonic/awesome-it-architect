@@ -7,7 +7,7 @@ A curated list of IT architecture resources
 - [Martin Fowler](https://martinfowler.com/) - Software Architect UK 
 - [Gregor Hohpe](https://architectelevator.com/) - Director Enterprise Strategy AWS
 - [Goniwada, Shivakumar R](https://in.linkedin.com/in/shivakumar-r-goniwada-3223106) - Chief Enterprise Architect India
-- 
+
 # Books
 
 - [Svyatoslav Kotusev, The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment](https://www.amazon.de/Practice-Enterprise-Architecture-Approach-Alignment/dp/064508252X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3EK9GEI64QSF9&keywords=The+Practice+of+Enterprise+Architecture%3A+A+Modern+Approach+to+Business+and+IT+Alignment&qid=1669151625&sprefix=the+practice+of+enterprise+architecture+a+modern+approach+to+business+and+it+alignment%2Caps%2C122&sr=8-1)
@@ -20,6 +20,8 @@ A curated list of IT architecture resources
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
 - [Hacker News](https://news.ycombinator.com/)
+- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
 
 # Technology Blogs
 
@@ -28,6 +30,11 @@ A curated list of IT architecture resources
 - [Uber Engineering Blog](https://www.uber.com/en-AT/blog/vienna/engineering/)
 - [Spotify Engineering](https://engineering.atspotify.com/)
 - [Disney Technology Blog](https://medium.com/disney-streaming)
+- [Github Engineering](https://github.blog/category/engineering/)
+- [Linkedin Engineering](https://engineering.linkedin.com/blog)
+- [Meta Engineering](https://engineering.fb.com/)
+
+!
 
 # Methods and Tools
 
