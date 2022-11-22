@@ -19,6 +19,7 @@ A curated list of IT architecture resources
 
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
+- [Hacker News](https://news.ycombinator.com/)
 
 # Technology Blogs
 
