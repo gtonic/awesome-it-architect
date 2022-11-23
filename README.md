@@ -3,10 +3,10 @@ A curated list of IT architecture resources
 
 # People
 
-- [Svyatoslav Kotusev](http://kotusev.com/) - Researcher Australia
-- [Martin Fowler](https://martinfowler.com/) - Software Architect UK 
+- [Svyatoslav Kotusev](http://kotusev.com/) - Researcher
+- [Martin Fowler](https://martinfowler.com/) - Software Architect
 - [Gregor Hohpe](https://architectelevator.com/) - Director Enterprise Strategy AWS
-- [Goniwada, Shivakumar R](https://in.linkedin.com/in/shivakumar-r-goniwada-3223106) - Chief Enterprise Architect India
+- [Goniwada, Shivakumar R](https://in.linkedin.com/in/shivakumar-r-goniwada-3223106) - Chief Enterprise Architect
 
 # Books
 
