@@ -33,6 +33,7 @@ A curated list of IT architecture resources
 - [Github Engineering](https://github.blog/category/engineering/)
 - [Linkedin Engineering](https://engineering.linkedin.com/blog)
 - [Meta Engineering](https://engineering.fb.com/)
+- [McKinsey Digital Insights](https://medium.com/@mckinseydigital)
 
 !
 
