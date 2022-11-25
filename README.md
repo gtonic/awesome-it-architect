@@ -1,6 +1,10 @@
 # IT Architect [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of IT architecture resources
 
+# Awesome Lists
+
+- [Awesome Architecture](https://github.com/fabianmagrini/awesome-architecture)
+
 # People
 
 - [Svyatoslav Kotusev](http://kotusev.com/) - Researcher
@@ -34,8 +38,6 @@ A curated list of IT architecture resources
 - [Linkedin Engineering](https://engineering.linkedin.com/blog)
 - [Meta Engineering](https://engineering.fb.com/)
 - [McKinsey Digital Insights](https://medium.com/@mckinseydigital)
-
-!
 
 # Methods and Tools
 
