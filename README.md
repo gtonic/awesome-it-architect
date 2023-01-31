@@ -25,6 +25,7 @@ A curated list of IT architecture resources
 
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
+- [Inventage Tech Radar](https://techradar.inventage.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
